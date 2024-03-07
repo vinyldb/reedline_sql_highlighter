@@ -1,0 +1,10 @@
+[package]
+name = "reedline_sql_highlighter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nu-ansi-term = "0.50"
+reedline = "0.30"
+sqlparser = "0.44.0"
+
