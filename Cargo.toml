@@ -2,6 +2,14 @@
 name = "reedline_sql_highlighter"
 version = "0.1.0"
 edition = "2021"
+authors = ["its contributors"]
+readme = "README.md"
+description = "A SQL keyword highlighter for reedline"
+license = "MIT"
+license-file = "LICENSE"
+documentation = ""
+repository = "https://github.com/vinyldb/reedline_sql_highlighter"
+homepage = "https://github.com/vinyldb/reedline_sql_highlighter"
 
 [dependencies]
 nu-ansi-term = "0.50"
