@@ -7,7 +7,7 @@ readme = "README.md"
 description = "A SQL keyword highlighter for reedline"
 license = "MIT"
 license-file = "LICENSE"
-documentation = ""
+documentation = "https://docs.rs/reedline_sql_highlighter"
 repository = "https://github.com/vinyldb/reedline_sql_highlighter"
 homepage = "https://github.com/vinyldb/reedline_sql_highlighter"
 
